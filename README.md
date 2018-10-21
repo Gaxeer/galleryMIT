@@ -1,2 +1,2 @@
-# Web
+# galleryMIT
 Web-development projects
